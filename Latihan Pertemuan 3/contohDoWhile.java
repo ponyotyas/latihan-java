@@ -6,7 +6,7 @@ package pertemuan4;
 
 /**
  *
- * @author User
+ * @author tyas
  */
 public class contohDoWhile {
     public static void main(String[] args) {

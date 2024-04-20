@@ -6,7 +6,7 @@ package pertemuan4;
 
 /**
  *
- * @author User
+ * @author tyas
  */
 public class InisialisasiArray1 {
     public static void main(String[] args) {
