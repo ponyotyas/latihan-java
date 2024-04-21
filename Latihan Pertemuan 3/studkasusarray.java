@@ -9,7 +9,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author tyas
+ * @author Dian Rahayu
  */
 public class studkasusarray {
     public static void main(String[] args) throws IOException {

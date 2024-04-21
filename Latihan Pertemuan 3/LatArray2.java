@@ -6,7 +6,7 @@ package pertemuan4;
 
 /**
  *
- * @author tyas
+ * @author Dian Rahayu
  */
 public class LatArray2 {
     public static void main(String[] args) {
