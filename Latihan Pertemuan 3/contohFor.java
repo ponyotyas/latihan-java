@@ -6,7 +6,7 @@ package pertemuan4;
 
 /**
  *
- * @author Dian Rahayu
+ * @author Tyas
  */
 public class contohFor {
     public static void main(String[] args) {
